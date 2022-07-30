@@ -42,12 +42,12 @@ global.wait = '_*𝐬𝐞𝐝𝐚𝐧𝐠 𝐝𝐢 𝐩𝐫𝐨𝐬𝐞𝐬 ...*
 global.eror = '_*мααƒ ѕєяνєя тι∂αк ѕтαвιℓ..*_'
 
 //========Url Template Buttons=========//
-global.dtu = 'GROUP BOTZ'
-global.urlnya = "https://chat.whatsapp.com/BDI4MzsMCb82PDug5aLQAJ"
+global.dtu = 'WA OWNER'
+global.urlnya = "http://wa.me/6285648487291"
 
 //============= callButtons =============//
 global.dtc = 'ᴄᴀʟʟ ᴏᴡɴᴇʀ'
-global.phn = '+62 895-6182-57555'
+global.phn = '+62 819-4694-5315'
 
 //============= Games ================//
 global.benar = '_*Benar✅*_'
