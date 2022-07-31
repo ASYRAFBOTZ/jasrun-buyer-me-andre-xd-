@@ -43,7 +43,7 @@ global.eror = '_*мααƒ ѕєяνєя тι∂αк ѕтαвιℓ..*_'
 
 //========Url Template Buttons=========//
 global.dtu = 'WA OWNER'
-global.urlnya = "http://wa.me/6285648487291"
+global.urlnya = "http://wa.me/6285892679513"
 
 //============= callButtons =============//
 global.dtc = 'ᴄᴀʟʟ ᴏᴡɴᴇʀ'
