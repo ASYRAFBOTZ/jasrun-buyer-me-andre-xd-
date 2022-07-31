@@ -1,9 +1,9 @@
-const qrku = "https://i.ibb.co/MnbqZ0N/qr-Aguz-Familia-07-06-22-1654614928.png"
+const qrku = "https://telegra.ph/file/4a524a4035243e57e3add.jpg"
 
 let handler = async (m, { conn, usedPrefix }) => conn.sendButtonImg(m.chat, qrku, `
 ╭─「 Donasi • Dana 」
-│ • Telkomsel [081320170984]
-│ • Dana  [081320170984]
+│ • Gopay [085892679513]
+│ • Dana  [085880101624]
 ╰────
 ╭─「 *NOTE* 」
 │ > Ingin donasi? Wa.me/6281320170984
